@@ -7,12 +7,19 @@ Este repositório contém soluções para problemas de pSQL da plataforma Beecro
 ### Problemas
 Os problemas estão organizados pelo nome e código do problema. Cada problema possui uma arquivo .sql com a solução e um print provando a aprovação na plataforma Beecrowd.
 Problemas resolvidos até agora:
+
 - Customers Address - 2603
-- No Rental - 2616
-- Contest - 2738
 - Products by Categories - 2609
-- The Payback 2998
+- No Rental - 2616
+- Lawyers - 2737
+- Contest - 2738
+- Cearense Championship - 2988
 - Departments and Divisions - 2989
+- Departments Statistics - 2991
+- Highest Avarage Salary Divisions - 2992
+- The Sensor Message - 2995
+- Employees Payment - 2997
+- The Payback 2998
 
 # Contribuições
 Contribuições para este repositório são bem-vindas. Se você tiver alguma sugestão de melhoria para alguma solução que queria compartilhar, envie uma solicitação de pull ou abra uma issue.
