@@ -1,12 +1,20 @@
-# Desafios ACZG
-Este repositório será alimentado com as soluções dos desafios propostos durante o processo seletivo ACZG.
-O repositório estará divido em diferentes diretórios contendo soluções dos desafios de nome correspondente. À medida que os desafios forem concluídos, este README será atualizado.
- 
-## SQL
-Este repositório contém soluções para problemas de pSQL da plataforma Beecrowd. Os problemas não possuem uma solução única por se tratar de queries SQL.
-### Problemas
-Os problemas estão organizados pelo nome e código do problema. Cada problema possui uma arquivo .sql com a solução e um print provando a aprovação na plataforma Beecrowd.
-Problemas resolvidos até agora:
+# SQL Solutions for BeeCrowd Challenges
+
+This repository contains my solutions to various SQL problems presented on the BeeCrowd platform. The aim of this project is to demonstrate my proficiency in SQL and my problem-solving skills.
+
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Problem List](#problem-list)
+- [Usage](#usage)
+- [Contact](#contact)
+
+## Project Overview
+
+Each solution is crafted to solve specific database-related challenges, showcasing different SQL techniques and functionalities. The repository is structured to help others understand and learn SQL through practical examples.
+
+## Problem List
+
+Here are some of the problems I've solved:
 
 - Customers Address - 2603
 - Products by Categories - 2609
@@ -21,5 +29,24 @@ Problemas resolvidos até agora:
 - Employees Payment - 2997
 - The Payback 2998
 
-# Contribuições
-Contribuições para este repositório são bem-vindas. Se você tiver alguma sugestão de melhoria para alguma solução que queria compartilhar, envie uma solicitação de pull ou abra uma issue.
+## Installation
+
+To run these SQL scripts, you need an SQL database management system (DBMS) installed, such as MySQL, PostgreSQL, or SQLite. Each problem contains it's database schema available in the BeeCrowd plataform.
+
+## Usage
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/yourusername/beecrowd-sql-solutions.git
+    ```
+3. Open any of the SQL files in your preferred SQL editor or DBMS.
+4. Execute the SQL queries to see the solutions in action.
+
+## Contact
+
+If you have any questions or comments, feel free to reach out to me:
+
+- GitHub: [art_pedro](https://github.com/artpedro)
+- Email: arturpedromartins@gmail.com
+
+Thank you for visiting my repository!
